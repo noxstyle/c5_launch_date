@@ -1,0 +1,88 @@
+/* customizable styles */
+
+#c5wrapcd {
+    background: url("img/mainbg.png") repeat scroll center bottom;
+    height: 100%;
+}
+#c5wrapcd #cd_logo {
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-top: 30%;
+}
+#c5wrapcd #cd_header {
+    margin-left: 120px;
+    margin-right: 120px;
+    margin-top: 10px;
+}
+#c5wrapcd #holder_wrapper {
+    /* customize_box-background */ background: #fff; /* customize_box-background */
+    /* customize_box-border */ border-color: #FFFFFF; /* customize_box-border */
+    border-radius: 15px 15px 15px 15px;
+    border-style: solid;
+    border-width: 3px;
+    box-shadow: 0 0 5px #FFFFFF;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+}
+#c5wrapcd #cd_main {
+    background: url("http://cdn.graphicblog.net/wp-content/uploads/2012/03/flip-countdown-clock.jpg") repeat scroll 0 0 transparent;
+    min-height: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding-top: 15px;
+}
+#c5wrapcd #cd_timer {
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 10px;
+    padding-bottom: 15px;
+    background: #fff;
+}
+#c5wrapcd #counter {
+    margin: 0 auto;
+    width:465px;
+}
+#c5wrapcd #cd_mainplus {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+#c5wrapcd #cd_social {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 10px;
+}
+#c5wrapcd #cd_footer {
+    border: 0px solid #666;
+    bottom:0; 
+    height:20px; 
+    left:0; 
+    position:fixed;
+    width:100%;
+    text-align: center;
+}
+
+/*
+ * Default timer
+ */
+#cd_timer .desc {
+    margin: 0 auto 0 120px;
+    width:465px;
+}
+
+#cd_timer .desc div {
+    float: left;
+    font-family: Arial;
+    width: 70px;
+    margin-right: 45px;
+    font-size: 13px;
+    font-weight: bold;
+    color: #000;
+}
+
+#cd_timer .cntSeparator {
+    margin-top:8px;
+    font-size:40px;
+}

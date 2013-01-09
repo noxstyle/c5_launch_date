@@ -1,0 +1,86 @@
+/* customizable styles */
+
+
+/* =============================================================================
+   Hgroup Styles
+   ========================================================================== */
+
+#c5wrapcd h1 {
+    /* customize_h1 */ color: #FF00FF; /* customize_h1 */
+    font: bold 36px/38px arial;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+#c5wrapcd h2 {
+    /* customize_h2 */ color: #000000; /* customize_h2 */
+    font: bold 32px/34px arial;
+    margin-bottom: 10px;
+}
+
+#c5wrapcd h3 {
+    /* customize_h3 */ color: #999999; /* customize_h3 */
+    font: bold 28px/30px arial;
+    margin-bottom: 10px;
+}
+
+
+/* =============================================================================
+   Page
+   ========================================================================== */
+
+#c5wrapcd #holder_wrapper {
+     /* customize_page-text */ color: #FF00FF; /* customize_page-text */
+}
+
+#c5wrapcd #holder_wrapper a {
+     color: #eeeeee;
+}
+
+#c5wrapcd #holder_wrapper a:link {
+     /* customize_page-link */ color: #eeeeee; /* customize_page-link */
+     text-decoration: underline;
+}
+
+#c5wrapcd #holder_wrapper a:visited {
+     /* customize_page-link-visited */ color: #cccccc; /* customize_page-link-visited */
+}
+
+#c5wrap #holder_wrapper a:hover {
+     /* customize_page-link-hover */ color: #dddddd; /* customize_page-link-hover */
+}
+
+#c5wrap #holder_wrapper a:focus { 
+     outline: none; 
+}
+ 
+   
+/* =============================================================================
+   Credits Span
+   ========================================================================== */
+
+
+/* Footer credit span */
+
+#c5wrapcd #cd_footer {
+     /* customize_credit-text */ color: #555555; /* customize_credit-text */
+     text-align: center;
+     padding-bottom:5px;
+}
+
+#c5wrapcd #cd_footer a {
+     color: #ffffff;
+}
+
+#c5wrapcd #cd_footer a:link {
+     /* customize_credit-link */ color: #555555; /* customize_credit-link */
+     text-decoration: none
+}
+
+#c5wrapcd #cd_footer a:visited {
+     /* customize_credit-link-visited */ color: #888888; /* customize_credit-link-visited */
+}
+
+#c5wrapcd #cd_footer a:hover {
+     /* customize_credit-link-hover */ color: #00ff00; /* customize_credit-link-hover */
+}

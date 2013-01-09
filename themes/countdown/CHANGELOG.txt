@@ -1,0 +1,13 @@
+1.1 - Updated theme to be more compatible with Concrete5.5's new edit bar. Updated CSS to be latest via 960 GS on GitHub. 12/18/11
+1.09 - Updated CSS documents to latest versions available via GitHub. Changed doctype to HTML5. Removed site_statistics in header.php and added footer required in footer.php. 9-14-11
+1.08 - Updated CSS documents to latest via Nathan Smith @ GitHub. Added attribution. 1-23-11
+1.07 - Re-added <?php print $innerContent; ?> to view.php.
+1.06 - Some code tweaks based on suggestions from Mnkras at Concrete5 (Removed footer required, a meta tag, & grid_x classes)
+1.05 - Installation fixes and modifications to controller.php. Shout out to Steve at C5ThemePark.com 9/30/10
+1.04 - Added controller.php, reorganized file structure for integration into the Concrete5 Marketplace. 9/20/10
+1.03 - Made main.css customizable
+
+1.02 - Added customize miscelleneous to typography.css
+1.01 - Minor W3C Validation fixes
+
+1.0 - Starter theme released

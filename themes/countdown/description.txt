@@ -1,0 +1,2 @@
+﻿Starter Template with 960 Grid System
+This is a blank starter template for developers who use both Concrete5 and the 960 Grid System.
